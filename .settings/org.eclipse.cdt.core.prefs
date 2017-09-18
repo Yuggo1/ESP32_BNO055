@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.1303414658/IDF_PATH/delimiter=\:
+environment/project/0.1303414658/IDF_PATH/operation=append
+environment/project/0.1303414658/IDF_PATH/value=/home/yuggo/esp/esp-idf
+environment/project/0.1303414658/PATH/delimiter=\:
+environment/project/0.1303414658/PATH/operation=append
+environment/project/0.1303414658/PATH/value=/home/yuggo/bin\:/home/yuggo/.local/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/lib/jvm/java-8-openjdk-amd64/bin\:/home/yuggo/esp/xtensa-esp32-elf/bin
+environment/project/0.1303414658/append=true
+environment/project/0.1303414658/appendContributed=true
